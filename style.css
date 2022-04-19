@@ -1,0 +1,20 @@
+body {
+  text-align: plain;
+  background-color: #333;
+  font-family: Courier New, monospace;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  color: greenyellow;
+}
+
+
+.container {
+  display: flexbox;
+  width: 50%;
+  position: relative;
+  justify-content: space-around;
+  margin: auto;
+}
